@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.home_section {
+  background-image: url(./img/bg/nootbook.png);
+  height: 120vh;
+  color: antiquewhite;
+  padding: 0 50px;
+  background-repeat: no-repeat;
+  background-position: 165px;
+}
+h1 {
+  color: #333;
+  font-family: Raleway;
+  font-size: 50px;
+  font-weight: 700;
+}
+.home_description {
+  color: rgba(51, 51, 51, 0.5);
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+}
+.button_services {
+  width: 322px;
+  height: 55px;
+  border-radius: 50px;
+  background: #1ff0d7;
+  box-shadow: 0px 50px 50px 0px rgba(24, 133, 107, 0.2);
+  color: #fff;
+  font-family: Raleway;
+  font-size: 15px;
+  font-weight: 600;
+  border: none;
+}
+.button_up {
+  width: 83px;
+  height: 31px;
+  border-radius: 50px;
+  border: 1px solid #fff;
+  color: #fff;
+  font-family: Raleway;
+  font-size: 10px;
+  font-weight: 700;
+  background: none;
+}
+.home_item {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: -550px;
+}
+.item {
+  color: #fff;
+  font-family: Raleway;
+  font-size: 10px;
+  font-weight: 700;
+}
+.home_text {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding-top: 260px;
+}
+.component_description {
+  color: #333;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+}
+.provaider_description {
+  width: 200px;
+  height: 139px;
+  color: rgba(51, 51, 51, 0.5);
+  text-align: center;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+}
+.components {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 80px;
+  align-items: center;
+  gap: 20px;
+}
+.components_description {
+  color: #333;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+}
+.pyromids {
+  padding-top: 133px;
+  margin: 0 50px;
+}
+h2 {
+  color: #333;
+  font-family: Raleway;
+  font-size: 35px;
+  font-weight: 600;
+  padding-top: 15px;
+}
+.pyromids_description {
+  width: 402px;
+  color: rgba(51, 51, 51, 0.5);
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+}
+.green_description {
+  color: #4bee6f;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+}
+.pyromids_text {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.social_media {
+  display: flex;
+  justify-content: center;
+  margin-top: -450px;
+  margin-left: 127px;
+}
+.green {
+  padding-top: 10px;
+}
+h3 {
+  color: #333;
+  font-family: Raleway;
+  font-size: 35px;
+  font-weight: 600;
+  padding-top: 15px;
+}
+.brands_description {
+  width: 402px;
+  color: rgba(51, 51, 51, 0.5);
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+}
+.gren_description {
+  color: #4bee6f;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+  margin-top: 10px;
+}
+.brands {
+  padding-top: 78px;
+  margin: 0 183px;
+  display: flex;
+}
+.brands_text {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-left: 184px;
+}
+h4 {
+  width: 1342px;
+  color: #333;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 25px;
+  font-weight: 600;
+  margin-inline-start: 100px;
+}
+.clients{
+    margin-top: 86px;
+    align-items: center;
+}
+.clients_img{
+    padding-top: 45px;
+    margin: 0 240px;
+}
+.brends_img{
+    padding-top: 71px;
+    margin: 0 145px;
+}
